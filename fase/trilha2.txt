@@ -1,0 +1,39 @@
+01 - 
+02 - 
+03 - 
+
+
+
+H1:
+s1 - O - externo, para baixo da ponte de baixo - na interna, no banco do centro de cima, na praça
+s2 - M - interno, na bigorna, na área comercial - na externa, na árvore amarelo da esquerda em baixo
+s3 - F - externo, proximo ao castelo, na parte da esquerda, no arbusto - na interna, no lixeiro para cima da plantação
+
+H2:
+s1 - F - interno, desenhado na plantação - na externa, arvore pequena na esquerda do rio em baixo
+s2 - L - externo, no primeiro cacto da direita - na interna, no muro externo, na parte de baixo a direita
+s3 - D - interno, no lixeiro de baixo na esquerda - na externa, em cima na pedra em baixo da arvore seca grande
+s4 - C - externo, na ossada na parte de baixo do lago - na interna, em uma casa de telhado bege
+
+H3:
+s1 - P - interno - no muro na parte de cima dentro do corredor - na externa, no castelo de areia em baixo do lago
+s2 - F - externo, na pedra próximo a arvore morta de baixo, na direita da trilha - na caixa de frutas da sexta barraca da direita 
+s3 - F - interno, na plantação da direita, em baixo - na externa, arvore pequena na esquerda do rio em baixo
+
+
+Senha 1 = OMF
+
+Senha 2 = FLDC
+
+Senha 3 = PFF
+
+
+Fazer mapas - X
+colocado historia 1, 2 e 3 - falta
+colocado partes das senhas - x
+colocado pistas - x
+colocado pistas falsas - x
+colocado mapa - x
+colocado video - x
+colocado questões na plataforma - 
+liberado questões - 
